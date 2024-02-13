@@ -38,3 +38,8 @@ console.log(myArr2.lastIndexOf(4))
     return a+b
   })
   console.log(reduce)
+
+  const sort =(a,b)=>{
+    return a-b
+  }
+  console.log(sort)
