@@ -20,3 +20,5 @@ switch (true) {
 }
 // falsy values
 false,0,BigInt,-0,null,undefined,'',NaN
+// truthy
+"0","false"," ",[],{},function(){}
