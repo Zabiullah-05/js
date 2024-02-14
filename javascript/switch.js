@@ -18,3 +18,5 @@ switch (true) {
         console.log('not a red color')
         break;
 }
+// falsy values
+false,0,BigInt,-0,null,undefined,'',NaN
